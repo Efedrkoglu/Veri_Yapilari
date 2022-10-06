@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class App {
+    //Dizi ile stack yapısı ve bağlı liste ile stack yapısı
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
